@@ -1,6 +1,10 @@
-p{
-    background-color:aquamarine ;
+.red{
+color: rgb(255, 6, 6);
 }
-a{
-    background-color: rgb(228, 92, 92);
+#firstdiv{
+   background-color: aqua;
+}
+
+#seconddiv{
+   background-color: aqua;
 }
